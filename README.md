@@ -52,7 +52,7 @@ Check out my work and feel free to explore the code:
 
 ---
 
-## � Education & Certifications
+## 🎓 Education & Certifications
 
 - 🎓 **Bachelor's Degree** in Business Administration (IT Concentration)
 - 📜 **Rocketseat Specialization** — Professional Front-End and Full-Stack Development Certifications (In Progress)
@@ -61,7 +61,7 @@ Check out my work and feel free to explore the code:
 
 ---
 
-## �📫 Get in Touch
+## 📫 Get in Touch
 
 - **GitHub:** [Deka-11](https://github.com/Deka-11)
 - **LinkedIn:** [deborah-carolina](https://www.linkedin.com/in/deborah-carolina/)
