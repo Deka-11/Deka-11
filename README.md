@@ -1,4 +1,4 @@
-# Hey there! I'm Deborah Carolina 👋
+# Hey there! I'm Deborah dos Santos 😉
 
 **Front-End Developer in Progress** 🚀
 
@@ -56,6 +56,8 @@ Check out my work and feel free to explore the code:
 
 - 🎓 **Bachelor's Degree** in Business Administration (IT Concentration)
 - 📜 **Rocketseat Specialization** — Professional Front-End and Full-Stack Development Certifications (In Progress)
+- 🎥 **Curso em Vídeo (Guanabara)** — Certification courses in **Python** and **JavaScript** for web development and programming
+
 
 ---
 
