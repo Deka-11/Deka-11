@@ -47,6 +47,7 @@ Currently pursuing professional certifications through **Rocketseat** while buil
 
 Check out my work and feel free to explore the code:
 
+- **[Todo List App](https://github.com/Deka-11/todo)** ✅ — A modern todo application built with React 19, TypeScript, and Vite, featuring simulated HTTP requests and loading states
 - **[Dev Links](https://github.com/Deka-11/dev-links)** 🔗 — A responsive landing page to showcase your social media and professional links
 - **[React Calculator](https://github.com/Deka-11/react-calculator)** 🧮 — A fully functional calculator built with React, showcasing component composition and state management
 
